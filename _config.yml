@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            at-ch127001
-tagline:          'Enterprise, Macs, good times. By Christopher Harte'
-description:      'Enterprise, Macs, good times. By Christopher Harte'
+title:            Ch127001
+tagline:          'Enterprise IT, Macs, good times. By Christopher Harte'
+description:      'Enterprise IT, Macs, good times. By Christopher Harte'
 url:              https://ch127001.github.io
 baseurl:
                   # the optional subpath of your site, e.g. "/blog"
@@ -28,7 +28,7 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:            3.7.0
+version:            v1.0
 sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,

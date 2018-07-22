@@ -4,7 +4,6 @@ title: About
 sidebar_link: true
 ---
 
-<h1>Hello world</h1>
 
 <div class="left-col">
     <img src="uploads/0.jpeg">
