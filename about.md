@@ -4,10 +4,16 @@ title: About
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+<h1>Hello world</h1>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+<div class="left-col">
+    <img src="uploads/0.jpeg">
+</div>
+
+<div class="right-col">
+    <p>Welcome to my website.</p>
+
+    <p>TBC</p>
+
+    <p>If you feel you could use my help, feel free to <a href="contact.html">get in touch</a>!</p>
+</div>
