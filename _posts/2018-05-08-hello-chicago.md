@@ -12,6 +12,7 @@ Jetlag aside, I'm happy to report ten days, both sunny and enjoyable, on a worki
 
 ### The Chicago Mercantile Exchange
 
+
 ![CME Group at 20 South Wacker Drive ](/uploads/20_South.jpg)
 
 
