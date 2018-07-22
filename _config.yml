@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            '@'Ch127001
+title:            '@Ch127001'
 tagline:          'Enterprise IT, Macs, good times.\n By Christopher Harte'
 description:      'Enterprise IT, Macs, good times. By Christopher Harte'
 url:              https://ch127001.github.io
