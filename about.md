@@ -10,7 +10,7 @@ sidebar_link: true
 </div>
 
 <div class="right-col">
-    <p>Thanks for visiting my personal tech blog, at-ch127001.</p>
+    <p>Thanks for visiting my personal tech blog, @ch127001.</p>
 
     <p>My name is Christopher Harte and I am a Systems Engineer at CME Group in Belfast, Northern Ireland. All opinions expressed on this blog are mine and not those of my employer.</p>
 
