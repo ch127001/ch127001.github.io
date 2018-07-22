@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Ch127001
-tagline:          <p>Enterprise IT, Macs, good times.</p><p>By Christopher Harte</p>
-description:      <p>Enterprise IT, Macs, good times.</p><p>By Christopher Harte</p>
+tagline:          <p>Enterprise IT, Macs and good times.</p><p>By Christopher Harte</p>
+description:      <p>Enterprise IT, Macs and good times.</p><p>By Christopher Harte</p>
 url:              https://ch127001.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
