@@ -11,7 +11,7 @@ order: 80
 </div>
 
 <div class="right-col">
-    <p>Thanks for visiting my personal technology blog @ Ch127001.github.io</p>
+    <p>Thanks for visiting my personal technology blog @ ch127001.github.io</p>
 
     <p>My name is Christopher James Harte and I'm a Systems Engineer at CME Group in Belfast, Northern Ireland. All opinions expressed on this blog are mine and not those of my employer.</p>
 
