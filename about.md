@@ -11,9 +11,13 @@ sidebar_link: true
 </div>
 
 <div class="right-col">
-    <p>Welcome to my website.</p>
+    <p>Thanks for visiting my personal tech blog, at-ch127001.</p>
 
-    <p>TBC</p>
+    <p>My name is Christopher Harte and I am a Systems Engineer at CME Group in Belfast, Northern Ireland. All opinions expressed on this blog are mine and not those of my employer.</p>
+
+    <p>On this blog I write infrequent pieces about my experience working in the technology industry, things I've figured out, bugs I've encountered, projects I've worked on, or links to items of interest written by others.</p>
 
     <p>If you feel you could use my help, feel free to <a href="contact.html">get in touch</a>!</p>
+
+    <p>Enjoy!</p>
 </div>
