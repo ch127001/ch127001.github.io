@@ -9,7 +9,7 @@ order: 100
 [ch127001@protonmail.ch](mailto:ch127001@protonmail.ch)
 
 ## LinkedIn ##
-[linkedin.com/in/harte-christopher](linkedin.com/in/harte-christopher)
+[linkedin.com/in/hartechristopher](linkedin.com/in/hartechristopher)
 
 ## Github ##
 [github.com/ch127001](https://github.com/ch127001)
