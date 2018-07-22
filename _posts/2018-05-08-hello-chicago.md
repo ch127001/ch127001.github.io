@@ -33,6 +33,6 @@ Jetlag aside, I'm happy to report ten days, both sunny and enjoyable, on a worki
 
 ### The Chicago Mercantile Exchange & City Sights
 
-
+Just a few of stops along the way:
 
 {% include image-gallery.html folder="/uploads/" %}
