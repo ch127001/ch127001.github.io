@@ -1,8 +1,3 @@
----
-layout: page
-title: License
----
-
 # Released under MIT License
 
 Copyright (c) 2017 Andrew Fong.
