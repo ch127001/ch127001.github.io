@@ -23,8 +23,6 @@ images:
     title: Photo 9.
   - image_path: uploads/
     title: Photo 10
-  - image_path: uploads/
-    title: Photo 11
 ---
 
 ### In and around Chi-town.
@@ -33,7 +31,8 @@ images:
 Jetlag aside, I'm happy to report ten days, both sunny and enjoyable, on a working visit to Chicago from late April to early May of 2018. A great experience which took me from the Chicago-side shores of Lake Michigan, all throughout the 'Magnificent Mile' and 'The Loop' in the city, and out along Route 59 to the suburbs!
 
 
-### CME Group and the City
+### The Chicago Mercantile Exchange & City Sights
+
 
 
 {% include image-gallery.html folder="/uploads/" %}
