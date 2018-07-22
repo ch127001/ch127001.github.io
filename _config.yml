@@ -3,11 +3,12 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Christopher Harte
-tagline:          'Unix internals, Python development and Cloud Platforms'
-description:      'Unix internals, Python development and Cloud Platforms'
+title:            @ch127001
+tagline:          'Enterprise, Macs, good times. By Christopher Harte'
+description:      'Enterprise, Macs, good times. By Christopher Harte'
 url:              https://ch127001.github.io
-baseurl:          # the optional subpath of your site, e.g. "/blog"
+baseurl:          /_posts
+                  # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
                   # other pages at root, see the paginate_path and
