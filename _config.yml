@@ -3,11 +3,11 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            '@ch127001'
+title:            ch127001
 tagline:          'Enterprise, Macs, good times. By Christopher Harte'
 description:      'Enterprise, Macs, good times. By Christopher Harte'
 url:              https://ch127001.github.io
-baseurl:          
+baseurl:
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
