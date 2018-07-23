@@ -22,7 +22,7 @@ images:
   - image_path: uploads/chicago/IMG09.jpeg
     title: Chicago Harbour, Lake Shore
   - image_path: uploads/chicago/IMG10.jpeg
-    title: Photo 10
+    title: Lake Michigan
 ---
 
 ### In and around Chi-town.
