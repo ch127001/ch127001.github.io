@@ -4,23 +4,23 @@ title: A Working Visit to Chicago
 excerpt_separator:  <!--more-->
 images:
   - image_path: uploads/chicago/IMG01.jpeg
-    title: Photo 1
+    title: The CME Center, 20 S. Wacker Dr
   - image_path: uploads/chicago/IMG02.jpeg
-    title: Photo 2
+    title: NBC Tower
   - image_path: uploads/chicago/IMG03.jpeg
-    title: Photo 3
+    title: Looking across Chicago River at The Chicago Tribune
   - image_path: uploads/chicago/IMG04.jpeg
-    title: Photo 4
+    title: Dearborn St. Bridge
   - image_path: uploads/chicago/IMG05.jpeg
-    title: Photo 5
+    title: Trump Tower
   - image_path: uploads/chicago/IMG06.jpeg
-    title: Photo 6
+    title: Michigan Avenue Bridge
   - image_path: uploads/chicago/IMG07.jpeg
-    title: Photo 7
+    title: The Loop
   - image_path: uploads/chicago/IMG08.jpeg
-    title: Photo 8
+    title: Lickety Split, Lake Michigan
   - image_path: uploads/chicago/IMG09.jpeg
-    title: Photo 9.
+    title: Chicago Harbour, Lake Shore
   - image_path: uploads/chicago/IMG10.jpeg
     title: Photo 10
 ---
