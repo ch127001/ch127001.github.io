@@ -36,4 +36,4 @@ Jetlag aside, I'm happy to report ten days, both sunny and enjoyable, on a worki
 
 Just a few of the stops along the way:
 
-{% include image-gallery.html folder="/uploads/chicago/" %}
+{% include image-gallery.html folder="/uploads/chicago" %}
