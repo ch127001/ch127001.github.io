@@ -10,9 +10,9 @@ images:
   - image_path: uploads/chicago/IMG03.jpeg
     title: Looking across Chicago River at The Chicago Tribune
   - image_path: uploads/chicago/IMG04.jpeg
-    title: Dearborn St. Bridge
-  - image_path: uploads/chicago/IMG05.jpeg
     title: Trump Tower
+  - image_path: uploads/chicago/IMG05.jpeg
+    title: Dearborn St. Bridge
   - image_path: uploads/chicago/IMG06.jpeg
     title: Michigan Avenue Bridge
   - image_path: uploads/chicago/IMG07.jpeg
