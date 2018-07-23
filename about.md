@@ -13,7 +13,7 @@ order: 80
 <div class="right-col">
     <p>Thanks for visiting my personal technology blog @ ch127001.github.io</p>
 
-    <p>My name is Christopher Harte and I'm a Systems Engineer at CME Group in Belfast, Northern Ireland. All opinions expressed on this blog are mine and not those of my employer.</p>
+    <p>My name is Christopher (James) Harte and I'm a Systems Engineer at CME Group in Belfast, Northern Ireland. All opinions expressed on this blog are mine and not those of my employer.</p>
 
     <p>On this blog I write infrequent pieces about my experience working in the technology industry, things I've figured out, bugs I've encountered, projects I've worked on, or links to items of interest written by others.</p>
 

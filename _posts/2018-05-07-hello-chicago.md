@@ -28,7 +28,7 @@ images:
 ### In and around Chi-town.
 
 
-Jetlag aside, I'm happy to report ten days, both sunny and enjoyable, on a working visit to Chicago from late April to early May of this year. A great experience which took me from the beautiful Chicago-side shores of Lake Michigan, to many places throughout the 'The Loop' and 'Magnificent Mile' in the city, and out along Route 59 through the suburbs.
+Jetlag aside, I'm happy to report ten days, both sunny and enjoyable, on a working visit to Chicago from late April to early May of this year. A great experience which took me from the beautiful Chicago-side shores of Lake Michigan, to many places throughout the 'The Loop' and 'Magnificent Mile' in the city, as well as the suburbs out along Route 59.
 
 
 ### The Chicago Mercantile Exchange & City Sights
