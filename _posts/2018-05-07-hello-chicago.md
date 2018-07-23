@@ -18,7 +18,7 @@ images:
   - image_path: uploads/chicago/IMG07.jpeg
     title: The Loop
   - image_path: uploads/chicago/IMG08.jpeg
-    title: Lickety Split, Lake Michigan
+    title: The Lickety Split, Lake Michigan
   - image_path: uploads/chicago/IMG09.jpeg
     title: Chicago Harbour, Lake Shore
   - image_path: uploads/chicago/IMG10.jpeg
