@@ -9,7 +9,7 @@ sidebar_sort_order: 100
 [ch127001@protonmail.ch](mailto:ch127001@protonmail.ch)
 
 ## LinkedIn ##
-[linkedin.com/in/hartechristopher](linkedin.com/in/hartechristopher)
+[linkedin.com/in/hartechristopher](https://linkedin.com/in/hartechristopher/)
 
 ## Github ##
 [github.com/ch127001](https://github.com/ch127001)
