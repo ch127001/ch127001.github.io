@@ -2,7 +2,7 @@
 layout: page
 title: Contact me
 sidebar_link: true
-order: 100
+sidebar_sort_order: 100
 ---
 
 ## Email ##
