@@ -2,7 +2,7 @@
 layout: page
 title: About
 sidebar_link: true
-sidebar_sort_order: 90
+sidebar_sort_order: 70
 ---
 
 
@@ -11,7 +11,7 @@ sidebar_sort_order: 90
 </div>
 
 <div class="right-col">
-    <p>Thanks for visiting my personal technology blog @ *ch127001.github.io*</p>
+    <p>Thanks for visiting my personal technology blog @ <b>ch127001.github.io</b></p>
 
     <p>My name is Christopher Harte and I'm a Systems Engineer at CME Group in Belfast, Northern Ireland. All opinions expressed on this blog are mine and not those of my employer.</p>
 
