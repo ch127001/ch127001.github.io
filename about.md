@@ -20,4 +20,6 @@ sidebar_sort_order: 70
     <p>If you feel you could use my help, feel free to <a href="contact.html">get in touch</a>!</p>
 
     <p>Enjoy!</p>
+
+    <p>Chris</p>
 </div>
