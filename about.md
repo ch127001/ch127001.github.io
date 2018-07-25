@@ -17,7 +17,7 @@ sidebar_sort_order: 70
 
     <p>On this blog I write infrequent pieces about my experience working in the technology industry, things I've figured out, bugs I've encountered, projects I've worked on, or links to items of interest written by others.</p>
 
-    <p>If you feel you could use my help, feel free to <a href="contact.html">get in touch</a>!</p>
+    <p>If you feel you could use my help, feel free to <a href="contact.html">get in touch</a>.</p>
 
     <p>Enjoy!</p>
 
