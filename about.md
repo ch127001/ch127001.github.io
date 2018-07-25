@@ -3,6 +3,7 @@ layout: page
 title: About
 sidebar_link: true
 sidebar_sort_order: 70
+google_analytics: UA-122937475-1
 ---
 
 
