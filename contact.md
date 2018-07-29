@@ -7,10 +7,10 @@ google_analytics: UA-122937475-1
 ---
 
 ## Email ##
-[ch127001@protonmail.ch](mailto:ch127001@protonmail.ch)
+[**ch127001@protonmail.ch**](mailto:ch127001@protonmail.ch)
 
 ## LinkedIn ##
-[linkedin.com/in/hartechristopher](https://linkedin.com/in/hartechristopher/)
+[**linkedin.com/in/hartechristopher**](https://linkedin.com/in/hartechristopher/)
 
 ## Github ##
-[github.com/ch127001](https://github.com/ch127001)
+[**github.com/ch127001**](https://github.com/ch127001)
