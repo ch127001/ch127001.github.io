@@ -23,6 +23,16 @@ images:
     title: Chicago Harbour
   - image_path: uploads/chicago/IMG10.jpeg
     title: Lake Michigan
+  - image_path: uploads/chicago/IMG11.jpeg
+    title: Untitled 11
+  - image_path: uploads/chicago/IMG12.jpeg
+    title: Untitled 12
+  - image_path: uploads/chicago/IMG13.jpeg
+    title: Untitled 13
+  - image_path: uploads/chicago/IMG14.jpeg
+    title: Untitled 14
+  - image_path: uploads/chicago/IMG15.jpeg
+    title: Untitled 15
 ---
 
 ### In and around Chi-town.
