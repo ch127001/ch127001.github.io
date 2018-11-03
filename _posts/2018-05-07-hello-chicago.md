@@ -29,7 +29,7 @@ images:
 
 
 
-Jet lag aside, I'm happy to report ten days both sunny and enjoyable on a working visit to Chicago from late April to early May of this year. A great experience which took me from the beautiful Chicago-side shore of Lake Michigan, to many places throughout 'The Loop' and 'Magnificent Mile' in the city and on out to the suburbs along Route 59...
+Jet lag aside I'm happy to report ten days both sunny and enjoyable on a working visit to Chicago from late April to early May of this year. A great experience which took me from the beautiful Chicago-side shore of Lake Michigan, to many places throughout The Loop and Magnificent Mile in the city and on out to the suburbs along Route 59.
 
 
 ### The CME Center & Some City Sights.
