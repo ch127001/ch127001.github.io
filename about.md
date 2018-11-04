@@ -14,7 +14,7 @@ google_analytics: UA-122937475-1
 <div class="right-col">
     <p>Thanks for visiting my personal technology blog at <b>ch127001.github.io</b>.</p>
 
-    <p>My name is Christopher Harte and I'm an IT Systems Engineer at CME Group in Belfast, Northern Ireland. All opinions expressed on this blog are mine and not those of my employer.</p>
+    <p>My name is Christopher Harte, I'm an IT Systems Engineer and I work for CME Group in Belfast, Northern Ireland. All opinions expressed on this blog are mine and not those of my employer.</p>
 
     <p>On this blog I write infrequent pieces about my experience working in the technology industry, things I've figured out, bugs I've encountered, projects I've worked on, or links to items of interest written by others.</p>
 
