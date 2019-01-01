@@ -10,7 +10,7 @@ google_analytics: UA-122937475-1
 [**ch127001@protonmail.ch**](mailto:ch127001@protonmail.ch)
 
 ## LinkedIn: ##
-[**linkedin.com/in/hartechristopher**](https://linkedin.com/in/hartechristopher/)
+[**linkedin.com/in/christopherjamesni**](https://linkedin.com/in/christopherjamesni/)
 
 ## GitHub: ##
 [**github.com/ch127001**](https://github.com/ch127001)
