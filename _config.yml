@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Ch127001
-tagline:          'Enterprise IT, Macs and good times. By Christopher Harte'
+tagline:          'Enterprise IT, Macs and good times. By Christopher James'
 description:      <p>'Enterprise IT, Macs and good times.'</p><p>A <a href="https://pages.github.com/"><b>GitHub Pages</b></a> Blog By Christopher Harte</p>
 url:              https://ch127001.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
@@ -14,8 +14,8 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # sidebar_blog_link below.
 
 author:
-  name:           'Christopher Harte'
-  url:            https://twitter.com/chriistophe89
+  name:           'Christopher James'
+  url:            https://twitter.com/CJamesNI
 
 paginate:         5
 # paginate_path:    '/page:num'
