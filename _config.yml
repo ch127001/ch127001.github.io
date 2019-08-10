@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Ch127001
-tagline:          'Enterprise IT, Macs and good times. By Christopher James'
+tagline:          'Enterprise IT, Macs and good times. By Christopher E. James'
 description:      <p>'Enterprise IT, Macs and good times.'</p><p>A <a href="https://pages.github.com/"><b>GitHub Pages</b></a> Blog By Christopher James</p>
 url:              https://ch127001.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
