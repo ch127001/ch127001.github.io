@@ -25,4 +25,4 @@ Published: 2016
 
 "Caching Theory. The Memory Hierarchy. Belady's Algorithm. Cache eviction. Page faults/Cache misses. LRU. FIFO. The Forgetting Curve..."
 
-{% include image-gallery.html folder="uploads/atlb" %}
+{% include image-gallery.html folder="/uploads/atlb" %}
