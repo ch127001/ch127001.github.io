@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Receipts from 'Algorithms To Live By'
+title: Receipts from 'Algorithms To Live By'(The Book)
 excerpt_separator:  <!--more-->
 images:
   - image_path: uploads/atlb/IMG12.jpeg
