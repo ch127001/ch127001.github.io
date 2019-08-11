@@ -17,6 +17,6 @@ Published: 2016
 "Optimal Stopping Thoery"\\
 "Explore/Exploit"\\
 "Sorting Thoery"\\
-"Caching Theory. The Memory Hierarchy. Belady's Algorithm. Cache eviction. Page faults/Cache misses. LRU. FIFO. The Forgetting Curve..."
+"Caching Theory. The Memory Hierarchy. Bélády's Algorithm. Cache eviction. Page faults/Cache misses. LRU. FIFO. The Forgetting Curve..."
 
 {% include image-gallery.html folder="/uploads/atlb" %}
