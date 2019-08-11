@@ -10,7 +10,6 @@ images:
 ### Receipts from Algorithms To Live By, The Computer Science of Human Decisions - A Book Review (Of Sorts)
 
 Book Authors: Brian Christian & Tom griffiths
-
 Published: 2016
 
 "What should we do, or leave undone, in a day or a lifetime?"
