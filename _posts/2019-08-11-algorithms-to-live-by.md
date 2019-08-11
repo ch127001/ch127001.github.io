@@ -3,8 +3,8 @@ layout: post
 title: Receipts from Algorithms To Live By - A Book Review
 excerpt_separator:  <!--more-->
 images:
-  - image_path: uploads/atlb/IMG012.JPG
-    title: Algorithms To Live By, The Computer Science of Human Decisions (2016)
+  - image_path: uploads/atlb/IMG12.jpeg
+    title: Algorithms To Live By, The Computer Science of Human Decisions
 ---
 
 ### Receipts from Algorithms To Live By, The Computer Science of Human Decisions - A Book Review.
