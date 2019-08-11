@@ -4,7 +4,7 @@ title: Receipts from 'Algorithms To Live By'
 excerpt_separator:  <!--more-->
 images:
   - image_path: uploads/atlb/IMG12.jpeg
-    title: The Jan 2019 read...
+    title: The Jan 2019 read ...
 ---
 
 ### Algorithms To Live By: The Computer Science of Human Decisions
