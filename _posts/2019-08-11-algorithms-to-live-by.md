@@ -7,7 +7,7 @@ images:
     title: The Jan 2019 read ...
 ---
 
-### Algorithms To Live By: The Computer Science of Human Decisions
+### Algorithms To Live By: The Computer Science of Human Decisions.
 
 Book Authors: Brian Christian & Tom Griffiths\\
 Published: 2016
