@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Receipts from: Algorithms To Live By
+title: Receipts from 'Algorithms To Live By' - A Book Review
 excerpt_separator:  <!--more-->
 images:
   - image_path: uploads/atlb/IMG12.jpeg
     title: The January 2019 Read - Algorithms To Live By (2016)
 ---
 
-### Receipts from 'Algorithms To Live By - The Computer Science of Human Decisions'.
+### Receipts from: 'Algorithms To Live By, The Computer Science of Human Decisions' - A Book Review (Of Sorts).
 
 Book Authors: Brian Christian & Tom Griffiths\\
 Published: 2016
