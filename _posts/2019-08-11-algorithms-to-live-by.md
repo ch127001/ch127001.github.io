@@ -12,6 +12,7 @@ images:
 Book Authors: Brian Christian & Tom Griffiths\\
 Published: 2016
 
+Ideas discussed:\\
 "What should we do or leave undone in a day or a lifetime?"\\
 "Alogrithms: Simply put... a finite set of steps."\\
 "The Secretary Problem"\\
