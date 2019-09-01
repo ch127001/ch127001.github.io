@@ -2,6 +2,7 @@
 layout: post
 title: A Working Visit to Chicago
 excerpt_separator:  <!--more-->
+google_analytics: UA-90567544-1
 images:
   - image_path: uploads/chicago/IMG01.jpeg
     title: The CME Center, 20 S. Wacker Dr
