@@ -19,7 +19,7 @@ Ideas discussed:\\
 "Optimal Stopping Theory: 37%."\\
 "Explore/exploit: New vs. best so far. Gittin's index. The multi-armed bandit problem: win-stay, lose-shift. Regret minimisation frameworks. Upper confidence bound alogrithms. Priors. <a href="https://www.mailmunch.com/blog/ab-testing-got-obama-60-million/">A/B testing</a> Obama."\\
 "Scheduling Theory"\\
-"Sort Theory: The 'search' misnomer. Bubble, Insertion, Merge, Bucket, Rough, Tree. Linear vs. quadratics. Comparison counting. Radix."\\
+"Sort Theory: The 'search' misnomer. Bubble, Insertion, Merge, Bucket, Rough, Tree. Linear vs. quadratic time. Comparison counting. Radix."\\
 "<a href="https://stackoverflow.com/questions/14415881/how-to-pair-socks-from-a-pile-efficiently">Stackoverflow - How to pair socks from a pile efficiently?</a>"\\
 "Caching Theory: The memory hierarchy. Bélády's algorithm. Cache eviction. Page faults/Cache misses. LRU. FIFO. The Forgetting Curve..."
 
