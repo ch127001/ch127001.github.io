@@ -12,7 +12,7 @@ google_analytics: UA-90567544-1
 </div>
 
 <div class="right-col">
-    <p>Thanks for visiting my personal technology blog at <b>ch127001.github.io</b>.</p>
+    <p>Thanks for visiting my personal technology blog at <b>cjamesni.github.io</b>.</p>
 
     <p>My name is Christopher James and I'm an IT Systems Engineer at CME Group in Belfast, Northern Ireland. All opinions expressed on this blog are mine and not those of my employer.</p>
 
