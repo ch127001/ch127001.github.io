@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Ch127001
+title:            CJamesNI
 tagline:          'Enterprise IT, Macs and good times. By Christopher James'
 description:      <p>'Enterprise IT, Macs and good times.'</p><p>A <a href="https://pages.github.com/"><b>GitHub Pages</b></a> Blog By Christopher E James</p>
-url:              https://ch127001.github.io
+url:              https://cjamesni.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -36,4 +36,4 @@ google_analytics: UA-90567544-1
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://github.com/ch127001/
+  repo:             https://github.com/cjamesni/
