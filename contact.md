@@ -7,10 +7,10 @@ google_analytics: UA-90567544-1
 ---
 
 ## Email: ##
-[**ch127001@protonmail.ch**](mailto:ch127001@protonmail.ch)
+[**cjames19@protonmail.ch**](mailto:cjames19@protonmail.ch)
 
 ## LinkedIn: ##
-[**linkedin.com/in/ch127001**](https://linkedin.com/in/ch127001/)
+[**linkedin.com/in/cjamesni](https://linkedin.com/in/cjamesni/)
 
 ## GitHub: ##
-[**github.com/ch127001**](https://github.com/ch127001)
+[**github.com/ch127001**](https://github.com/cjamesni)
