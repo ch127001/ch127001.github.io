@@ -2,7 +2,7 @@
 layout: post
 title: Receipts from 'Algorithms To Live By' (The Book)
 excerpt_separator:  <!--more-->
-google_analytics: UA-90567544-1
+google_analytics: UA-122937475-1
 images:
   - image_path: uploads/atlb/IMG12.jpeg
     title: The Jan 2019 read ...
