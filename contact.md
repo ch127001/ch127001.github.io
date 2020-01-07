@@ -15,5 +15,5 @@ google_analytics: UA-122937475-1
 ## GitHub: ##
 [**github.com/cjamesni**](https://github.com/cjamesni)
 
-## JamfNation: ##
+## Jamf: ##
 [**jamf.com/jamf-nation/users/37517/cjames**](https://www.jamf.com/jamf-nation/users/37517/cjames)
