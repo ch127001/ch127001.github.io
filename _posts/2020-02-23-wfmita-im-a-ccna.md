@@ -13,6 +13,6 @@ images:
 
 Proud to share the Cisco badge: CCNA Routing & Switching 200-125. Narrowly avoided #Certpocalypse 2020 and passed the composite exam yesterday morning. Thanks to David Bombal and Wendell Odom!\\
 
-<a href="https://www.youracclaim.com/badges/23faac15-228c-4843-9baf-dc741f84e863/linked_in">Your Acclaim: Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching) was issued by Cisco to Christopher Evelyn James.</a>"\\
+Your Acclaim: <a href="https://www.youracclaim.com/badges/23faac15-228c-4843-9baf-dc741f84e863/linked_in">Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching) was issued by Cisco to Christopher Evelyn James</a>\\
 
 {% include image-gallery.html folder="/uploads/cert" %}
