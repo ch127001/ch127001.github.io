@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Receipts from 'Algorithms To Live By' (The Book)
+title: Receipts from 'Algorithms To Live By' the book.
 excerpt_separator:  <!--more-->
 google_analytics: UA-122937475-1
 images:
