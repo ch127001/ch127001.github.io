@@ -8,7 +8,7 @@ images:
     title: 200-125 CCNA Routing and Switching 22-02-2020
 ---
 
-### Well find me in the Alps. I'm a CCNA! ...
+### Well find me in the Alps: I'm a CCNA! ...
 
 
 Proud to share the Cisco badge: CCNA Routing & Switching 200-125. Narrowly avoided #Certpocalypse 2020 and passed the composite exam yesterday morning. With thanks owed to David Bombal and Wendell Odom for their unimproveable training materials:
