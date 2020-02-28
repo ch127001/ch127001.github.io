@@ -5,7 +5,7 @@ excerpt_separator:  <!--more-->
 google_analytics: UA-122937475-1
 images:
   - image_path: uploads/cert/CV_PNG_L200.jpg
-    title: 200-125 CCNA Routing and Switching 22-02-2020
+    title: 22-02-2020, 200-125 CCNA Routing and Switching
 ---
 
 ### How I Got There:
