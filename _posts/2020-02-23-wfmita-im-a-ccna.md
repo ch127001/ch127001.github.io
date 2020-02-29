@@ -10,7 +10,7 @@ images:
 
 ### How I Got There:
 
-Proud to share the Cisco badge: CCNA Routing & Switching 200-125. Narrowly avoided <a href="https://twitter.com/hashtag/certpocalypse?lang=en">#Certpocalypse</a> 2020 and thankfully passed the composite exam yesterday morning. With even more thanks owed to David Bombal and Wendell Odom for their unimproveable training materials:
+Proud to share the Cisco badge: CCNA Routing & Switching 200-125. Narrowly avoided <a href="https://twitter.com/hashtag/certpocalypse?lang=en">#Certpocalypse</a> 2020 and thankfully passed the composite exam yesterday morning. With thanks owed to David Bombal and Wendell Odom for their unimproveable training materials:
 
 - David Bombal - Your CCNA Start. The Complete Networking Fundamentals course (Udemy)
 - David Bombal - Cisco CCNA Packet Tracer Ultimate labs: CCNA 201-301 labs (Udemy)
