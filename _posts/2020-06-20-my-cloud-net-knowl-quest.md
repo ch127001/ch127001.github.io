@@ -5,7 +5,7 @@ excerpt_separator:  <!--more-->
 google_analytics: UA-122937475-1
 images:
   - image_path: uploads/aws/aws-ans.jpg
-    title: ...
+    title: AWS Advanced Networking Specialty
 ---
 
 ### My Cloud Networking Knowledge Quest: The AWS Advanced Networking Specialty track (2019)
