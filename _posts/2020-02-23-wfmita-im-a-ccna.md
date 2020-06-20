@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Well find me in the Alps: I'm a CCNA!'
+title: 'Well find me in the Alps":" I'm a CCNA!'
 excerpt_separator:  <!--more-->
 google_analytics: UA-122937475-1
 images:
