@@ -1,18 +1,18 @@
 ---
 layout: post
-title: My Cloud Networking Knowledge Quest\: AWS-ANS
+title: My Cloud Networking Knowledge Quest
 excerpt_separator:  <!--more-->
 google_analytics: UA-122937475-1
 images:
-  - image_path: uploads/aws/AWS-ANS.png
+  - image_path: uploads/aws/aws-ans.jpg
     title: ...
 ---
 
-### My Cloud Networking Knowledge Quest: The AWS Advanced Networking Specialty track
+### My Cloud Networking Knowledge Quest: The AWS Advanced Networking Specialty track (2019)
 
 ### Resources:
 
-Training material I've referenced along the way so far includes:
+Training material referenced along the way includes:
 
 - Amazon Web Services - Official Study Guide - AWS Certified SysOps Administrator (Sybex hardcopy, 2018)
 - A Cloud Guru's Online Specialty Exam Course - AWS Certified Advanced Networking (2019)
