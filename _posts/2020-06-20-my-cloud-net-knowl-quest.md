@@ -12,7 +12,7 @@ images:
 
 ### Resources:
 
-Training material referenced along the way includes:
+Training material referenced along the way:
 
 - Amazon Web Services - Official Study Guide - AWS Certified SysOps Administrator (Sybex hardcopy, 2018)
 - A Cloud Guru's Online Specialty Exam Course - AWS Certified Advanced Networking (2019)
