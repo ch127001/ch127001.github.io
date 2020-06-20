@@ -4,7 +4,7 @@ title: Well find me in the Alps, I'm a CCNA!
 excerpt_separator:  <!--more-->
 google_analytics: UA-122937475-1
 images:
-  - image_path: uploads/cert/CV_PNG_L200.jpg
+  - image_path: uploads/cisco/CV_PNG_L200.jpg
     title: 22-02-2020, 200-125 CCNA Routing and Switching
 ---
 
@@ -21,4 +21,4 @@ Proud to share the Cisco badge: CCNA Routing & Switching 200-125. Narrowly avoid
 
 Your Acclaim: <a href="https://www.youracclaim.com/users/cjamesni">Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching) was issued by Cisco to Christopher Evelyn James</a>.
 
-{% include image-gallery.html folder="/uploads/cert" %}
+{% include image-gallery.html folder="/uploads/cisco" %}
