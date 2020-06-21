@@ -14,6 +14,7 @@ images:
 
 Training material referenced along the way:
 
+- Amazon Web Services - [Official Exam Guide - AWS Certified Advanced Networking Specialty (ANS-C00)](https://github.com/cjamesni/cjamesni.github.io/blob/master/AWS-Certified-Advanced-Networking-Speciality_Exam_Guide_v1.2_FINAL.pdf)
 - Amazon Web Services - Official Study Guide - AWS Certified SysOps Administrator (Sybex hardcopy, 2018)
 - A Cloud Guru's Online Specialty Exam Course - AWS Certified Advanced Networking (2019)
 - A Cloud Guru's Online Cloud Playground  - The AWS Sandbox
