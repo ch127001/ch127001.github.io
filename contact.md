@@ -17,3 +17,6 @@ google_analytics: UA-122937475-1
 
 ## JamfNation: ##
 [**jamf.com/jamf-nation/users/37517/cjames**](https://www.jamf.com/jamf-nation/users/37517/cjames)
+
+## ACloudGuru: ##
+[**learn.acloud.guru/profile/christopher-james-ni**](https://learn.acloud.guru/profile/christopher-james-ni)
