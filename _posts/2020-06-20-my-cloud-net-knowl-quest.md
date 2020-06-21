@@ -5,10 +5,10 @@ excerpt_separator:  <!--more-->
 google_analytics: UA-122937475-1
 images:
   - image_path: uploads/aws/aws-ans.jpg
-    title: AWS Certified Advanced Networking - Specialty (2019)
+    title: AWS Certified Advanced Networking - Specialty (2020)
 ---
 
-### My Cloud Networking Knowledge Quest: The AWS Certified Advanced Networking Specialty (2019)
+### My Cloud Networking Knowledge Quest: The AWS Certified Advanced Networking Specialty (2020)
 
 ### Resources:
 
@@ -16,7 +16,7 @@ Training material referenced along the way:
 
 - Amazon Web Services - [Official Exam Guide - AWS Certified Advanced Networking Specialty (ANS-C00)](https://github.com/cjamesni/cjamesni.github.io/blob/master/AWS-Certified-Advanced-Networking-Speciality_Exam_Guide_v1.2_FINAL.pdf)
 - Amazon Web Services - Official Study Guide - AWS Certified SysOps Administrator (Sybex hardcopy, 2018)
-- A Cloud Guru's Online Exam Course - AWS Certified Advanced Networking Specialty (2019)
+- A Cloud Guru's Online Exam Course - AWS Certified Advanced Networking Specialty (2020)
 - A Cloud Guru's Online Cloud Playground  - The AWS Sandbox
 
 
