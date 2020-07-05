@@ -10,7 +10,7 @@ images:
 
 ### My Cloud Networking Knowledge Quest: The AWS Certified Advanced Networking Specialty (2020)
 
-### Resources:
+### Learning Resources:
 
 Training material referenced along the way:
 
